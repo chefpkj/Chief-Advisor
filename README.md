@@ -24,6 +24,7 @@ Install dependencies
 ```bash
   npm i
 ```
+
 Start the backend server
 ```bash
   nodemon index.js

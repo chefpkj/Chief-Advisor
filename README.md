@@ -1,5 +1,6 @@
 # Chief Advisor                                  
-A personal assistant powered by OpenAI using ReactJS and Tailwind CSS for frontend and NodesJs for backend providing seamless experience.    
+A personal assistant powered by OpenAI using ReactJS and Tailwind CSS for frontend and NodesJs for backend providing seamless experience.
+The app stores user interactions from earlier logged in sessions separately for every account in a MongoDB database.
 
 ## App Demo
 Link to video

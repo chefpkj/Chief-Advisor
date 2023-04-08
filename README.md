@@ -3,7 +3,12 @@ A personal assistant powered by OpenAI using ReactJS and Tailwind CSS for fronte
 The app stores user interactions from earlier logged in sessions separately for every account in a MongoDB database.
 
 ## App Demo
-Link to video
+
+<img src="https://github.com/chefpkj/Chief-Advisor/blob/main/chief%20advisor.gif" width=auto height="450" />
+
+[Link to video](https://youtu.be/mn2Bx52SWC0)
+
+
 
 ## To Run App In Your Local Machine
 You need to write the following commands on the terminal screen so that you can run this project locally.
